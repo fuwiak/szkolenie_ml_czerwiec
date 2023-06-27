@@ -8,6 +8,10 @@ https://docs.google.com/spreadsheets/d/1rKqr3MW_H6suP0TD922OTezN3zHCiOtVt0cj3TKE
 
 https://colab.research.google.com/drive/1GJ6SnCVcvNCf4dO2bBzfjqj0lEfIgKH3?usp=sharing
 
+# temat2 
+
+https://colab.research.google.com/drive/1mNUHW_G35HedIhBR2YnCarYCZ_ewFPb3?usp=sharing
+
 
 #dodatkowe materialy
 
