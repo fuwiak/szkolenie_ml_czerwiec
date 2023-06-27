@@ -14,6 +14,10 @@ https://colab.research.google.com/drive/1mNUHW_G35HedIhBR2YnCarYCZ_ewFPb3?usp=sh
 
 # temat 3
 
+
 #dodatkowe materialy
+
+#pycart
+https://colab.research.google.com/drive/1GOoHFrKEgvLVOAmx6r5KoaTemfK3IymT?usp=sharing#scrollTo=akVrIS8N5QNc
 
 https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
