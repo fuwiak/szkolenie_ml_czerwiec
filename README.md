@@ -1,6 +1,8 @@
 # szkolenie_ml_czerwiec
 
+# Prezentacja 
 
+https://paper.dropbox.com/doc/Szkolenie-Uczenie-Maszynowe-Pomaranczowi2--B7FkYjjfKb~PhLieM7p_a53XAg-hx9Pj2aN6ROYzEFhdlELq
 
 https://docs.google.com/spreadsheets/d/1rKqr3MW_H6suP0TD922OTezN3zHCiOtVt0cj3TKEZMw/edit#gid=0
 
